@@ -1,0 +1,11 @@
+C:\Users\thien\Documents\cosmosdb\bin\Debug\netcoreapp2.1\cosmosdb.deps.json
+C:\Users\thien\Documents\cosmosdb\bin\Debug\netcoreapp2.1\cosmosdb.runtimeconfig.json
+C:\Users\thien\Documents\cosmosdb\bin\Debug\netcoreapp2.1\cosmosdb.runtimeconfig.dev.json
+C:\Users\thien\Documents\cosmosdb\bin\Debug\netcoreapp2.1\cosmosdb.dll
+C:\Users\thien\Documents\cosmosdb\bin\Debug\netcoreapp2.1\cosmosdb.pdb
+C:\Users\thien\Documents\cosmosdb\obj\Debug\netcoreapp2.1\cosmosdb.csprojAssemblyReference.cache
+C:\Users\thien\Documents\cosmosdb\obj\Debug\netcoreapp2.1\cosmosdb.csproj.CoreCompileInputs.cache
+C:\Users\thien\Documents\cosmosdb\obj\Debug\netcoreapp2.1\cosmosdb.AssemblyInfoInputs.cache
+C:\Users\thien\Documents\cosmosdb\obj\Debug\netcoreapp2.1\cosmosdb.AssemblyInfo.cs
+C:\Users\thien\Documents\cosmosdb\obj\Debug\netcoreapp2.1\cosmosdb.dll
+C:\Users\thien\Documents\cosmosdb\obj\Debug\netcoreapp2.1\cosmosdb.pdb
